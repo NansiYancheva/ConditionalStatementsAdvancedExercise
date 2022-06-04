@@ -1,0 +1,15 @@
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\bin\Debug\net6.0\Operations Between Numbers.exe
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\bin\Debug\net6.0\Operations Between Numbers.deps.json
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\bin\Debug\net6.0\Operations Between Numbers.runtimeconfig.json
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\bin\Debug\net6.0\Operations Between Numbers.dll
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\bin\Debug\net6.0\ref\Operations Between Numbers.dll
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\bin\Debug\net6.0\Operations Between Numbers.pdb
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.AssemblyInfo.cs
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.dll
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\ref\Operations Between Numbers.dll
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.pdb
+C:\Visual Studio\21.02\21.02\Operations Between Numbers\obj\Debug\net6.0\Operations Between Numbers.genruntimeconfig.cache

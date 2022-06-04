@@ -1,0 +1,15 @@
+C:\Visual Studio\16.02.02\21.02\Cinema\bin\Debug\net6.0\Cinema.exe
+C:\Visual Studio\16.02.02\21.02\Cinema\bin\Debug\net6.0\Cinema.deps.json
+C:\Visual Studio\16.02.02\21.02\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\Visual Studio\16.02.02\21.02\Cinema\bin\Debug\net6.0\Cinema.dll
+C:\Visual Studio\16.02.02\21.02\Cinema\bin\Debug\net6.0\ref\Cinema.dll
+C:\Visual Studio\16.02.02\21.02\Cinema\bin\Debug\net6.0\Cinema.pdb
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.dll
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\ref\Cinema.dll
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.pdb
+C:\Visual Studio\16.02.02\21.02\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache

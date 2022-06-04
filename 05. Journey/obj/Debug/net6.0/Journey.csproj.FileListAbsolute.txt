@@ -1,0 +1,15 @@
+C:\Visual Studio\21.02\21.02\Journey\bin\Debug\net6.0\Journey.exe
+C:\Visual Studio\21.02\21.02\Journey\bin\Debug\net6.0\Journey.deps.json
+C:\Visual Studio\21.02\21.02\Journey\bin\Debug\net6.0\Journey.runtimeconfig.json
+C:\Visual Studio\21.02\21.02\Journey\bin\Debug\net6.0\Journey.dll
+C:\Visual Studio\21.02\21.02\Journey\bin\Debug\net6.0\ref\Journey.dll
+C:\Visual Studio\21.02\21.02\Journey\bin\Debug\net6.0\Journey.pdb
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.csproj.AssemblyReference.cache
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.AssemblyInfoInputs.cache
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.AssemblyInfo.cs
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.csproj.CoreCompileInputs.cache
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.dll
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\ref\Journey.dll
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.pdb
+C:\Visual Studio\21.02\21.02\Journey\obj\Debug\net6.0\Journey.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.AssemblyInfoInputs.cache
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.AssemblyInfo.cs
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Visual Studio\21.02\21.02\On Time for the Exam\bin\Debug\net6.0\On Time for the Exam.exe
+C:\Visual Studio\21.02\21.02\On Time for the Exam\bin\Debug\net6.0\On Time for the Exam.deps.json
+C:\Visual Studio\21.02\21.02\On Time for the Exam\bin\Debug\net6.0\On Time for the Exam.runtimeconfig.json
+C:\Visual Studio\21.02\21.02\On Time for the Exam\bin\Debug\net6.0\On Time for the Exam.dll
+C:\Visual Studio\21.02\21.02\On Time for the Exam\bin\Debug\net6.0\ref\On Time for the Exam.dll
+C:\Visual Studio\21.02\21.02\On Time for the Exam\bin\Debug\net6.0\On Time for the Exam.pdb
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.csproj.AssemblyReference.cache
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.dll
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\ref\On Time for the Exam.dll
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.pdb
+C:\Visual Studio\21.02\21.02\On Time for the Exam\obj\Debug\net6.0\On Time for the Exam.genruntimeconfig.cache
